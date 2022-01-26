@@ -1,0 +1,19 @@
+.moreInfo {
+  color: white;
+}
+
+.moreInfo div {
+  display: flex;
+  justify-content: space-between;
+  padding: 0em 1em;
+}
+
+.moreInfo h5 {
+  margin: 0em;
+  font-family: 'Dongle', sans-serif;
+  font-size: 1.2em;
+}
+
+.moreInfo p {
+  font-family: 'Nunito Sans', sans-serif;
+}
