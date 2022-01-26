@@ -1,0 +1,13 @@
+main {
+  display: flex;
+}
+
+aside {
+  width: 20%;
+  background-color: #1E1E28;
+}
+
+section {
+  width: 80%;
+  background-color: red;
+}
