@@ -1,0 +1,16 @@
+.cityInfo {
+  background-color: #2B2B35;
+  color: white;
+  margin: 0em 1em;
+}
+
+.cityInfo div {
+  display: flex;
+  justify-content: space-between;
+  padding: 0em 1em;
+}
+
+.data {
+  margin-top: 0.5em;
+  font-family: 'Open Sans', sans-serif;
+}

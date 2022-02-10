@@ -2,14 +2,14 @@ import React from 'react';
 import './Home.css';
 
 import Presentation from '../components/home/Aside/presentation';
-import MoreInfo from '../components/home/Aside/moreInfo';
+import CityInfo from '../components/home/Aside/cityInfo';
 
 function Home() {
   return (
     <main>
       <aside>
         <Presentation />
-        <MoreInfo />
+        <CityInfo />
       </aside>
       <section>
         <p> seção </p>
